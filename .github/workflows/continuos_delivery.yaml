@@ -3,7 +3,7 @@ name: Continuous Delivery
 on:
   push:
     branches: 
-      - feature/continuos_delivery
+      - feature/continous_delivery
 
 jobs:
   build:
