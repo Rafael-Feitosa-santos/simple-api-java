@@ -1,6 +1,6 @@
 services:
   db:
-    container_name: mysql
+    container_name: mysql-simple-api
     image: "mysql"
     ports:
       - "3306:3306"
